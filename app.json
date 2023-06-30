@@ -3,7 +3,6 @@
     "name": "ass-6-image-gallery-app",
     "slug": "ass-6-image-gallery-app",
     "version": "1.0.0",
-    "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
